@@ -6,7 +6,7 @@
     "question_two_description": "機密性とプライバシーです。 Sensoryのサービスへの全ての接続は暗号化され、脅威から保護されています。Sensoryの最先端の技術はブラウザのなりすましを検知し、攻撃への対処を自動化します。",
     "question_three_title": "Sensoryにプライバシーはありますか?",
     "question_three_description": "Sensoryは処理の内容やIPアドレスを保護しています。全てのIPアドレスは暗号化され大量のアクセスによるAPIへの攻撃を防ぐためにロボットであるかどうかの認証の時のみにキャッシュとして保存されます。サーバーID、メンバーID、IPアドレスとブラウザの情報は全て暗号化され保護されています。",
-    "question_four_title": "Is there any data retained by sensory after a delete request?",
+    "question_four_title": "削除依頼後もsensoryが保持するデータはあるのでしょうか？",
     "question_four_description": "When sensory receives a wipe deletion request, it will wipe any trace from its database, including any cached data, and send it to the void, where no one, not even the deepest mosnters, will be able to view it. All of the data that is erased is hurled into the never-ending void. By contacting us, you can request that data be removed if you have a valid cause or if you are under the age of 13.",
     "question_five_title": "Human verification false flagging as proxy / vpn",
     "question_five_description": "Sensory will normally flag you as a proxy or VPN if your ISP is unknown to our resolver, which is highly rare. Send us your hash signature, which is listed below for each human verification, if you believe you're on a home connection. If you provide us with your particular IP address, we will delete your support ticket.",
