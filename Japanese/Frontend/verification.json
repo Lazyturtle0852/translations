@@ -1,0 +1,14 @@
+{
+    "sensory_title_security": "Sensory Security",
+    "sensory_button_contact": "Contact Support",
+    "sensory_button_vote": "Vote For Sensory",
+    "integrity_verification": "Verifying your integrity",
+    "integrity_solve_captcha": "We're just checking to see if you are human. Please solve the captcha in order to access the community.",
+    "integrity_status_failed": "Verification Failed",
+    "integrity_status_complete": "Verification Complete",
+    "integrity_expires": "Verification expires in",
+    "integrity_expires_minutes": "Minutes",
+    "integrity_expires_seconds": "Seconds",
+    "integrity_something_happened": "Something went wrong while trying to contact sensory services. contact support if this continues to happen.",
+    "integrity_api_error_code": "error code:"
+}

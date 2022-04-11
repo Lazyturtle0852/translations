@@ -1,0 +1,6 @@
+{
+    "integrity_contract_complete": "Contract has completed an integrity check successfully in a community.",
+    "integrity_contract_network_blacklisted": "Contract has completed an integrity check successfully in a community.",
+    "integrity_contract_proxy_detected": "Contract was detected using a proxy / vpn network while verifying integrity.",
+    "integrity_contract_tampering": "Contract was detected tampering with integrity request data while verifying integrity."
+}
