@@ -1,8 +1,8 @@
 {
-    "commands_title": "Commands",
-    "documentation_title": "Documentation",
-    "support_server_title": "Support Server",
-    "service_status_title": "Status",
-    "invite_sensory_title": "Invite",
-    "login_with_discord": "Login with Discord"
+    "commands_title": "コマンド",
+    "documentation_title": "ドキュメント",
+    "support_server_title": "サポートサーバー",
+    "service_status_title": "ステータス",
+    "invite_sensory_title": "招待",
+    "login_with_discord": "Discordでログイン"
 }
