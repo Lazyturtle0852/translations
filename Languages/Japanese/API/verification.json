@@ -13,7 +13,7 @@
     "integrity_vpn_detect": "認証システムがプロキシー・バーチャルプライベートネットワーク（VPN）の使用を検知しました。",
     "integrity_network_blacklisted": "認証システムがブラックリストに登録されているネットワークからのアクセスを検知しました。",
     "integrity_role_not_given": "認証システムは本人確認を完了しましたが、要求されたロールを追加できませんでした。 ",
-    "integrity_role_given": "認証システムは本人確認を完了しました。 Welcome to",
+    "integrity_role_given": "認証システムは本人確認を完了しました。 {{community}} へようこそ。",
     "integrity_ratelimited": "大勢のユーザーが認証しようとしているため、認証システムに過剰な負荷がかかっています。 数秒後にもう一度お試しください。",
     "integrity_request_error": "認証システムに問題が発生しました。この状態が続く場合、連絡をお願いします。 ",
     "integrity_request_expired": "認証システムはリクエストが期限切れのため要求された処理を実行できませんでした。",
@@ -41,5 +41,5 @@
     "integrity_embed_button_open_profile": "プロフィールを開く",
     "integrity_embed_button_file_report": "ファイルを報告する",
     "integrity_embed_failed_verification": "認証に問題がありますか？お問い合わせくださいはこちら: {{url}}",
-    "integrity_embed_success_verification": "問題なく認証できました。Sensoryに投票していただけると助かります。"
+    "integrity_embed_success_verification": "問題なく認証できました。こちらからSensoryに投票していただけると助かります: {{vote}}"
 }
