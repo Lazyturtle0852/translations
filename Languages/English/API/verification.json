@@ -41,5 +41,5 @@
     "integrity_embed_button_open_profile": "Open Profile",
     "integrity_embed_button_file_report": "File Report",
     "integrity_embed_failed_verification": "Having difficulty verifying in a community? Here's how to get in touch with us for help: {{url}}.",
-    "integrity_embed_success_verification": "You have verified successfully without any issues. You can help us out by voting for Sensory here: {{vote}"
+    "integrity_embed_success_verification": "You have verified successfully without any issues. You can help us out by voting for Sensory here: {{vote}}"
 }
