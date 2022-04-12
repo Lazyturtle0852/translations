@@ -7,9 +7,9 @@
     "question_three_title": "Sensoryにプライバシーはありますか?",
     "question_three_description": "Sensoryは処理の内容やIPアドレスを保護しています。全てのIPアドレスは暗号化され大量のアクセスによるAPIへの攻撃を防ぐためにロボットであるかどうかの認証の時のみにキャッシュとして保存されます。サーバーID、メンバーID、IPアドレスとブラウザの情報は全て暗号化され保護されています。",
     "question_four_title": "削除依頼後もsensoryが保持するデータはあるのでしょうか？",
-    "question_four_description": "When sensory receives a wipe deletion request, it will wipe any trace from its database, including any cached data, and send it to the void, where no one, not even the deepest mosnters, will be able to view it. All of the data that is erased is hurled into the never-ending void. By contacting us, you can request that data be removed if you have a valid cause or if you are under the age of 13.",
-    "question_five_title": "Human verification false flagging as proxy / vpn",
-    "question_five_description": "Sensory will normally flag you as a proxy or VPN if your ISP is unknown to our resolver, which is highly rare. Send us your hash signature, which is listed below for each human verification, if you believe you're on a home connection. If you provide us with your particular IP address, we will delete your support ticket.",
-    "question_six_title": "Does Sensory sell or distrubute your sensitive data?",
-    "question_six_description": "Sensory does not sell sensitive information, and all sensitive information is hashed or encrypted before being kept in our systems to prevent data breaches."
+    "question_four_description": "Sensoryが削除依頼を受けた場合、データベースから全ての情報を削除します。キャッシュされたデータなども完全に削除され、閲覧できなくなります。 １３歳未満であることなどの正当な理由により削除を依頼する場合はご連絡下さい。",
+    "question_five_title": "認証システムが誤ってプロキシ・バーチャルプライベートネットワーク（VPN）を利用していると判断しました。",
+    "question_five_description": "Sensoryはご利用のISPが不明な場合、ごく稀に誤った判断をすることがあります。誤って判断されたと思う場合は、認証システムの下にある暗号キーを我々にお送りください。お使いのIPアドレスを開示されますと、 サポートチケットは我々で削除させていただきます。",
+    "question_six_title": "Sensoryは個人情報を販売または配布することがありますか？",
+    "question_six_description": "Sensoryは個人情報を販売できません。全ての情報は我々のシステムに保存される前に暗号化されているので、そのようなことは絶対に発生しません。"
 }
