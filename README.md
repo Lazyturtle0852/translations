@@ -8,7 +8,7 @@ Fork this repo so you have your own version to work on. Then copy the "English" 
 ## Honorable mentions.
 
 - Please ensure you do not translate any languages using ai translations as it can create bad grammar mistakes. 
-- Please ensure you do not edit any of the content that has a percentage (%) next to it as it is used to load dynamic contents throughout the bot & site.
+- Please ensure you do not edit any of the content that has a brackets ({{example_here}}) in english to it as it is used to load dynamic contents throughout the bot & site.
 - The "config.json" file is required and must be filled out properly such as: "code": "us", "name": "English".
 
 ## How to submit your contributions.
