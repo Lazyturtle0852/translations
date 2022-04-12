@@ -34,7 +34,7 @@
     "integrity_embed_status": "ステータス",
     "integrity_embed_member": "メンバー",
     "integrity_embed_memberid": "メンバーのID",
-    "integrity_embed_hash": "ハッシュ",
+    "integrity_embed_hash": "暗号キー",
     "integrity_embed_report_bugs": "バグを報告する:",
     "integrity_embed_verified_manually": "手動で認証されました",
     "integrity_embed_button_open_hash": "ハッシュを開く",
