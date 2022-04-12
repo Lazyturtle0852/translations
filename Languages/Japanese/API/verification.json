@@ -10,7 +10,7 @@
     "integrity_blacklisted_signature": "認証システムはあなたを追放するように指示されています。",
     "integrity_blacklisted_region": "認証システムはその地域に住む全ての人を追放するように指示されています。",
     "integrity_whitelisted_region": "認証システムは特定のメンバーのみコミュニティーへの参加を許可するように指示されています。",
-    "integrity_vpn_detect": "認証システムがプロキシー・バーチャルプライベートネットワーク（VPN）の使用を検知しました。",
+    "integrity_vpn_detect": "認証システムがプロキシ、またはバーチャルプライベートネットワーク（VPN）の使用を検知しました。",
     "integrity_network_blacklisted": "認証システムがブラックリストに登録されているネットワークからのアクセスを検知しました。",
     "integrity_role_not_given": "認証システムは本人確認を完了しましたが、要求されたロールを追加できませんでした。 ",
     "integrity_role_given": "認証システムは本人確認を完了しました。 {{community}} へようこそ。",
