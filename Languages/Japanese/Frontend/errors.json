@@ -1,5 +1,5 @@
 {
-    "error_type_limited_title": "Service Limited",
-    "integrity_expired_verification": "Sorry but the verification you are looking for does not exist, has been expired, services are restarting or is temporarily unavailable.",
-    "integrity_malformed_request": "Services have rejected your request due to malformed data in your request. If you believe this is a miss-understanding you can contact us."
+    "error_type_limited_title": "サービスが制限されています",
+    "integrity_expired_verification": "申し訳ございませんが、お探しの認証が存在しないか、期限切れか、サービスが再起動中または一時的に利用できない状態になっております。",
+    "integrity_malformed_request": "不正な形式のリクエストが送信されたため、システムはリクエストを受け付けられませんでした。 間違いだと思われる場合は、お問合せください。"
 }
