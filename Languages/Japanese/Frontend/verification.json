@@ -1,14 +1,14 @@
 {
-    "sensory_title_security": "Sensory Security",
-    "sensory_button_contact": "Contact Support",
+    "sensory_title_security": "Sensoryのセキュリティー",
+    "sensory_button_contact": "お問い合わせ",
     "sensory_button_vote": "Sensoryに投票",
-    "integrity_verification": "Verifying your integrity",
-    "integrity_solve_captcha": "We're just checking to see if you are human. Please solve the captcha in order to access the community.",
+    "integrity_verification": "認証しています",
+    "integrity_solve_captcha": "人間であるかどうかを確認します。コミュニティーに参加するにはCaptchaを解く必要があります。",
     "integrity_status_failed": "認証失敗",
     "integrity_status_complete": "認証完了",
-    "integrity_expires": "Verification expires in",
-    "integrity_expires_minutes": "Minutes",
-    "integrity_expires_seconds": "Seconds",
-    "integrity_something_happened": "Something went wrong while trying to contact sensory services. contact support if this continues to happen.",
-    "integrity_api_error_code": "error code:"
+    "integrity_expires": "認証が期限切れになるまで：",
+    "integrity_expires_minutes": "分",
+    "integrity_expires_seconds": "秒",
+    "integrity_something_happened": "サービスとの通信中にエラーが発生しました。繰り返し発生する場合はご連絡ください。",
+    "integrity_api_error_code": "エラーコード:"
 }
