@@ -14,4 +14,4 @@ Fork this repo so you have your own version to work on. Then copy the "English" 
 ## How to submit your contributions.
 
 Please ensure you contact one of the administrators in our current [Discord](https://sensory.gg/discord)
-poomers#5233, Chairman#9244, Dummy#0885
+poomers#5233, 0x369#8554, Dummy#0885

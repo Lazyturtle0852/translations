@@ -4,6 +4,7 @@
     "integrity_not_found": "Due to expired or non-existent verification, integrity checks were unable to process your request.",
     "integrity_service_restarting": "Due to services restarting, integrity checks were unable to process your request.",
     "integrity_request_tampering": "The integrity checks have reported you for tampering with request data.",
+    "integrity_browser_missmatch": "The integrity checks have reported you for having a browser integrity miss-match.",
     "integrity_community_not_found": "Due to the lack of a community, integrity checks were unable to process your request.",
     "integrity_configuration_updated": "Due to a mismatch in community setup, integrity checks were unable to process your request.",
     "integrity_blacklisted_account": "Our threat monitors have identified your account as malicious.",
@@ -26,6 +27,7 @@
     "integrity_embed_unavailable_region": "Unavailable Region",
     "integrity_embed_expired": "Expired",
     "integrity_embed_security_triggered": "Security Triggered",
+    "integrity_embed_browser_missmatch": "Browser Integrity Miss-Match",
     "integrity_embed_vpn_detected": "Proxy / VPN Detected",
     "integrity_embed_integrity_blacklisted": "Integrity Blacklisted",
     "integrity_embed_promotion": "Innovate your communities with our #1 security.",
@@ -43,3 +45,4 @@
     "integrity_embed_failed_verification": "Having difficulty verifying in a community? Here's how to get in touch with us for help: {{url}}.",
     "integrity_embed_success_verification": "You have verified successfully without any issues. You can help us out by voting for Sensory here: {{vote}}"
 }
+
