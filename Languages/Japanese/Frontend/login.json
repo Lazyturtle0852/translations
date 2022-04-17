@@ -1,0 +1,17 @@
+{
+    "login_error_redirected": "You have been redirected back to the portal. Login with your discord account to continue.",
+    "login_error_expired": "Your login has expired. Login with your discord account to continue.",
+    "login_error_security": "You have been logged out for security reasons. Login with your discord account to continue.",
+    "login_account_suspended": "Your account is currently suspended from using our services. Want to appeal? Contact us.",
+    "login_account_deleted": "Your account is currently not allowed from using our services. Contact us if you wish to reinstate your account.",
+    "login_description_one": "Since 2021, we've been securing Discord communities with the best Threat Sampler service on the market.",
+    "login_description_two": "Take a look around our site to learn why you need Sensory.",
+    "login_learn_more": "Learn More",
+    "login_welcome_back": "Welcome back.",
+    "login_welcome_login": "Continue by logging in with your Discord account.",
+    "login_welcome_button": "Login with Discord",
+    "login_welcome_policy": "By authorizing your discord account you agree to our Terms Of Service & Privacy Policy.",
+    "login_ratelimit_minutes": "Minutes",
+    "login_ratelimite_seconds": "Seconds",
+    "login_ratelimit_warning": "Services are currently going under heavy load. You will be able to login in a few moments."
+}
