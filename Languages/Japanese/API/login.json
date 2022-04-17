@@ -1,5 +1,5 @@
 {
-    "login_bad_request": "Services have rejected your request due to malformed data.",
-    "login_request_blocked": "Services have rejected your request due to security reasons.",
-    "login_internal_error": "Services have encountered some issues behind the scenes. If this continues to happen please contact us."
+    "login_bad_request": "データが不正なため、サービスはあなたのリクエストを拒否しました。",
+    "login_request_blocked": "セキュリティ上の理由により、サービスはお客様のリクエストを拒否しました。",
+    "login_internal_error": "サービスでいくつかの問題が発生しています。この問題が続くようでしたら、サポートまでご連絡ください。"
 }
